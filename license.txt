@@ -1,0 +1,14 @@
+Royal Screenshot - License Agreement
+
+Copyright (c) 2025
+Developer: Emon IbnMustafa
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software, to use, copy, modify, merge, publish, and/or distribute copies of it,
+subject to the following conditions:
+
+- This software is provided 'as-is', without any warranty.
+- You must not sell or misuse this software.
+- The developer is not responsible for any damage caused by use.
+
+By clicking "I Agree" you accept this license.
